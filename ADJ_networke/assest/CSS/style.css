@@ -261,6 +261,7 @@ header {
   position: relative;
   z-index: -999;
   background-image: url(../images/bennar-back.png);
+  background-image: url(../images/bennar-back.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
